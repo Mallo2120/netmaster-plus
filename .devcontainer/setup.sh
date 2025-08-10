@@ -19,5 +19,6 @@ pip install -r requirements.txt
 echo "👉 Installing frontend deps..."
 cd ../frontend
 npm install
+npm install swr
 
 echo "✅ Setup done."
